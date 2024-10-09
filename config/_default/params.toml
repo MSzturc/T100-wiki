@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "THE 100"
+title = "THE 100 Wiki"
 titleSeparator = "-"
 titleAddition = "Tagline"
 description = "Description"
@@ -11,10 +11,10 @@ docsVersion = "1.0"
 the100Version = "1.0"
 
 ## Open Graph
-images = ["tfd.png"]
+images = ["T100.png"]
 ogLocale = "en_US"
-domainTLD = "theforgetful.dev"
-titleHome = "THE 100"
+domainTLD = "https://mszturc.github.io/T100-wiki/"
+titleHome = "THE 100 Wiki"
 
 ## Twitter Cards
 twitterSite = "@user"
@@ -23,21 +23,21 @@ twitterCreator = "@user"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "THE100"
-schemaAuthor = "THE 100"
+schemaName = "THE100 Wiki"
+schemaAuthor = "THE 100 Project"
 schemaAuthorTwitter = "https://twitter.com/user"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/"
-schemaAuthorGitHub = "https://github.com/nesb0t"
+schemaAuthorGitHub = "https://github.com/mszturc"
 schemaLocale = "en-US"
-schemaLogo = "logo-tfd.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "tfd.png"
-schemaImageWidth = 1280
-schemaImageHeight = 640
+schemaLogo = "T100.png"
+schemaLogoWidth = 96
+schemaLogoHeight = 96
+schemaImage = "T100.png"
+schemaImageWidth = 96
+schemaImageHeight = 96
 schemaTwitter = "https://twitter.com/user"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/nesb0t"
+schemaGitHub = "https://github.com/mszturc"
 schemaSection = "posts"
 
 ## Sitelinks Search Box
@@ -69,7 +69,7 @@ fillImage = "1270x740 Center" # normalize image size
 footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) The Forgeful Dev"
+copyRight = "Copyright (c) THE 100 Project"
 
 # Alert
 alert = false
