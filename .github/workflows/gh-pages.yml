@@ -25,6 +25,11 @@ jobs:
           hugo-version: '0.128.0'
           extended: true
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - run: npm i
+
       - name: Build
         run: hugo --minify
 
