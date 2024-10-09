@@ -69,13 +69,13 @@ The back frame is one of the big changes from v1.0 to v1.1. It removes 2 rods fr
   <tbody>
     <tr>
       <td>Back Connector Left</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Back/Back%20Connector%20Left.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4585086_c556e237-101a-4acd-a392-098b7c88e9a1/back-connector-left.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Back/Back%20Connector%20Left.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4585086_c556e237-101a-4acd-a392-098b7c88e9a1/back-connector-left.stl">printables</a></td>
       <td>1</td>
       <td><a href="#back-frame-1">More info</a></td>
     </tr>
     <tr>
       <td>Back Connector Right</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Back/Back%20Connector%20Right.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4585087_9b00f09c-1c11-4350-a192-ece4abe3a657/back-connector-right.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Back/Back%20Connector%20Right.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4585087_9b00f09c-1c11-4350-a192-ece4abe3a657/back-connector-right.stl">printables</a></td>
       <td>1</td>
       <td><a href="#back-frame-1">More info</a></td>
     </tr>

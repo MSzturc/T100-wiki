@@ -23,7 +23,7 @@ The guide for homing your printer could have been much shorter, but I'm hoping p
 We're finally close... let's slide in to home.
 
 ## Requirements 
-  * You have completed the <a href="/the100/1.1/configure/sensorless-homing-prep/">sensorless homing prep</a> guide and your `printer.cfg` matches how we ended the bed movement guide.
+  * You have completed the <a href="/t100/1.1/configure/sensorless-homing-prep/">sensorless homing prep</a> guide and your `printer.cfg` matches how we ended the bed movement guide.
   * Know how to do an emergency stop in fluidd/mainsail so you can immediately stop the homing process if your stepper driver if needed. This will help prevent damage to the printer and motion systems. 
       * <img src="images/fluidd_emergency_stop.png">
 

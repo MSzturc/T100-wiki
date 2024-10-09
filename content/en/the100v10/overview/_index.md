@@ -8,5 +8,5 @@ draft: false
 images: []
 type: docs
 weight: 100
-url: /the100/1.0/overview/
+url: /t100/1.0/overview/
 ---

@@ -65,11 +65,11 @@ The ultimate answer is that PLA works great for this project, and it's the most 
 <a href="https://discord.com/channels/1086229147107459133/1086242585049305150/1135687700033318962" target="_blank">Source 1</a>, <a href="https://discord.com/channels/1086229147107459133/1086240900520345650/1133912749747998772" target="_blank">Source 2</a>, <a href="https://discord.com/channels/1086229147107459133/1086242585049305150/1109794216244150363" target="_blank">Source 3</a>
 
 ### How long does it take to print THE 100?
-Details on how long it takes and how much filament is used can be found <a href="https://theforgetful.dev/the100/1.1/overview/before-you-print/#print-time">in the overview</a>. 
+Details on how long it takes and how much filament is used can be found <a href="https://theforgetful.dev/t100/1.1/overview/before-you-print/#print-time">in the overview</a>. 
 
 ## Buying / Sourcing FAQ
 ### How many fasteners (screws / heat inserts / etc) do I need?
-This is the question I've seen the most and is what lead me to create this whole guide. A grand total can be found <a href="https://theforgetful.dev/the100/1.1/overview/bill-of-materials/#fasteners--hardware">here</a>, with individual counts being listed with each particular part (<a href="https://theforgetful.dev/the100/1.1/printing-guide/top-frame/#top-back-left">example</a>). 
+This is the question I've seen the most and is what lead me to create this whole guide. A grand total can be found <a href="https://theforgetful.dev/t100/1.1/overview/bill-of-materials/#fasteners--hardware">here</a>, with individual counts being listed with each particular part (<a href="https://theforgetful.dev/t100/1.1/printing-guide/top-frame/#top-back-left">example</a>). 
 
 ### Can I use something other than the Ender 2 Pro bed?
 I've seen several people report not being able to source the Ender 2 Pro bed. I suspect this is a country-specific issue as the vast majority find them readily available on aliexpress or directly from the Ender store. However, check <a href="https://discord.com/channels/1086229147107459133/1086248812219224125" target="_blank">the mods section</a> for various modifications that allow you to use other beds.

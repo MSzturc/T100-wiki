@@ -73,4 +73,4 @@ This project wouldn't exist without Matt so I wanted to provide a list of links 
   * <a href="https://hackaday.io/project/190348-the-100-the-fastest-3d-printer">hackaday</a>
 
 
-Ready to get the process started? <a href="/the100/1.1/overview/bill-of-materials/">Check out the BOM</a> to see what parts you can't print.
+Ready to get the process started? <a href="/t100/1.1/overview/bill-of-materials/">Check out the BOM</a> to see what parts you can't print.

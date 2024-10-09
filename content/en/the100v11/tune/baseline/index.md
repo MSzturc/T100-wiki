@@ -74,7 +74,7 @@ You can watch this process starting at <a href="https://youtu.be/ikvOHPZL6Cc?si=
       * You will very likely have to 
   * Will need to loosen other screws at first to get the bed to raise
 
-After leveling the bed, it's recommended to <a href="/the100/1.1/tune/baseline/#z-endstop">repeat the Z endstop calibration again</a> as the position of your bed has almost definitely changed.
+After leveling the bed, it's recommended to <a href="/t100/1.1/tune/baseline/#z-endstop">repeat the Z endstop calibration again</a> as the position of your bed has almost definitely changed.
 
 ## PID tuning
 PID tuning is an automated process for Klipper to learn how quickly your hotend and bed heat up. This is important so that it can minimize the under and overshooting it goes through when trying to get to the set temperature. Luckily this process is complete automated. 
@@ -220,10 +220,10 @@ Do `Save & Restart`.
 ### Slice the model
   1. Download and install <a href="https://ultimaker.com/software/ultimaker-cura/#links" target="_blank">Cura 5.x</a>
   1. Add a new printer to Cura
-      * Follow Matt's steps <a href="https://github.com/MSzturc/the100/blob/main/Cura/Readme.md" target="_blank">in his readme</a> to add a printer
+      * Follow Matt's steps <a href="https://github.com/MSzturc/t100/blob/main/Cura/Readme.md" target="_blank">in his readme</a> to add a printer
         * Do not miss the step of adding the Start G-code and End G-code
         * You can skip his steps 4 and 5 for now
-  1. Download and import <a href="https://github.com/MSzturc/the100/tree/main/Cura" target="_blank">Matt's Cura profiles</a>
+  1. Download and import <a href="https://github.com/MSzturc/t100/tree/main/Cura" target="_blank">Matt's Cura profiles</a>
       * Preferences -> Configure Cura -> Profiles -> Import
   1. Download the <a href="https://www.thingiverse.com/thing:1278865" target="_blank">calibration cube stl</a> and load it in to Cura
   1. Select `The-100-Quality-Profile` as your profile. Then slice and save the gcode. 

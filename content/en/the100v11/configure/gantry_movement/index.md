@@ -27,7 +27,7 @@ If you have been following along then you now have your printer to a point that 
 ## Requirements 
   * You have your A/B (aka X/Y) motors plugged in to your SKR Pico
   * You have access to fluidd/mainsail and it's connecting to your printer with no errors
-  * You have an <a href="/the100/1.1/configure/preparing-for-movement/">understanding of CoreXY printers, motor wiring, and you have modified your cables as needed</a>
+  * You have an <a href="/t100/1.1/configure/preparing-for-movement/">understanding of CoreXY printers, motor wiring, and you have modified your cables as needed</a>
   * I would recommend starting with no belt, or at least having it loose enough to allow the motor pulleys to rotate without moving the belt. This way you can test and verify both motors are working as expected without risk of crashing your printhead.
 
 <div class="alert alert-warning" role="alert">
@@ -35,7 +35,7 @@ If you have been following along then you now have your printer to a point that 
 </div>
 
 ## Wiring
-This guide doesn't cover wiring in detail, but it is important that you have your A/B (aka X/Y) motors plugged in before you continue or you'll just get errors. Every motor is different so how mine is wired won't necessarily be how yours should be wired. <a href="/the100/1.1/configure/preparing-for-movement/">But you knew that already... right</a>?
+This guide doesn't cover wiring in detail, but it is important that you have your A/B (aka X/Y) motors plugged in before you continue or you'll just get errors. Every motor is different so how mine is wired won't necessarily be how yours should be wired. <a href="/t100/1.1/configure/preparing-for-movement/">But you knew that already... right</a>?
 
 However, to save some trouble, you should have:
   * Your left motor plugged in to the `Y` plug on SKR

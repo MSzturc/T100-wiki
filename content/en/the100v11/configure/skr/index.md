@@ -22,7 +22,7 @@ The Banana Pi runs klipper which (to simplify things) is your 3d printer's firmw
 
 ## Requirements 
   * Your Banana Pi (or similar SBC) should be fully setup with klipper
-      * If you followed the steps in <a href="/the100/1.1/configure/klipper-install/">my previous klipper install guide</a> then you're all set
+      * If you followed the steps in <a href="/t100/1.1/configure/klipper-install/">my previous klipper install guide</a> then you're all set
   * Your SKR Pico should have all the jumpers set
   * A micro USB to USB C cable that supports data (some cables are charging only) OR a USB to Micro USB that supports data + a computer
       * A lot of people have had issues flashing the SKR via the BananaPi. This guide now includes a method to flash via your computer instead which eliminates the need to connect the SKR to the BPi via USB.

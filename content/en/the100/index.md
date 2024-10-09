@@ -10,6 +10,6 @@ contributors: ["theforgetfuldev"]
 
 This page is intentionally empty for now. Pick a version to get to the guides.
 
-<a href="/the100/1.0/overview/intro/">1.0</a>
+<a href="/t100/1.0/overview/intro/">1.0</a>
 
-<a href="/the100/1.1/overview/intro/">1.1</a>
+<a href="/t100/1.1/overview/intro/">1.1</a>

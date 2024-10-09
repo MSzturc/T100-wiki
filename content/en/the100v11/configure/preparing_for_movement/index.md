@@ -66,7 +66,7 @@ Here's the last of the technical bits, and it's easier than the stuff above. The
 
 If you hadn't noticed, my motor is a problem because it goes ABAB. If I were to just plug it up as-is to the Pico then nothing would work because the magnets won't be properly powered. The fix is very easy though. Rather than leaving the cable how it is where pin 1 on the motor would connect to pin 1 on the Pico, pin 2 to 2, etc, I just need to pull pins 2 and 3 from one end of the cable and reverse them. This doesn't require any special tools other than a small poker (a paperclip will do). 
 
-This pin swap is extremely easy to do regardless of <a href="https://theforgetful.dev/the100/1.1/overview/faq/#what-motors-should-i-get">your connector style</a>. Just do a quick search on how to remove a pin based on the style you have and you'll be all set. 
+This pin swap is extremely easy to do regardless of <a href="https://theforgetful.dev/t100/1.1/overview/faq/#what-motors-should-i-get">your connector style</a>. Just do a quick search on how to remove a pin based on the style you have and you'll be all set. 
 
 By making that change I haven't actually done anything to the motor itself; the pins on the motor are still `A+ B+ A- B-`, but the order they're actually connected to the Pico in becomes `A+ A- B+ B-`. 
 

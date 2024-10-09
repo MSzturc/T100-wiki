@@ -30,4 +30,4 @@ There are a lot of reasons to make this project, regardless of if you're newer t
   * Figure out exactly what your printer is capable of. How good of a print can it make? When do you need to use supports? 
   * Learn how to use a slicer beyond the defaults. Modify your profiles and determine the best setup for your printer.
 
-Sound good to you? Let's move on then! Here are things you should know <a href="/the100/1.1/overview/before-you-print">before you print</a>.
+Sound good to you? Let's move on then! Here are things you should know <a href="/t100/1.1/overview/before-you-print">before you print</a>.

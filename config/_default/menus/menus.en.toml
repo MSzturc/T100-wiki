@@ -1,64 +1,23 @@
-#[[docs]]
-#  name = "Prologue"
-#  weight = 10
-#  identifier = "prologue"
-#  url = "/docs/prologue/"
-#
-#[[docs]]
-#  name = "Help"
-#  weight = 60
-#  identifier = "help"
-#  url = "/docs/help/"
-
-# [[docs]]
-#   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
-
-#[[guide]]
-#  name = "Lorem"
-#  weight = 10
-#  identifier = "lorem"
-#  url = "/guide/lorem/"
-#
-#[[tutorial]]
-#  name = "Lorem"
-#  weight = 10
-#  identifier = "lorem"
-#  url = "/tutorial/lorem/"
-
-#[[main]]
-#  name = "Docs"
-#  url = "/docs/prologue/introduction/"
-## url = "/docs/1.0/prologue/introduction/"
-#  weight = 10
-
-# [[main]]
-#   name = "Tutorial"
-#   url = "/tutorial/lorem/ipsum/"
-#   weight = 15
-
 # Enable when I'm ready for THE 100
 [[main]]
   name = "THE 100"
   weight = 30
-  identifier = "the100"
-  url = "/the100/"
+  identifier = "t100"
+  url = "/t100/"
 
   [[main]]
   name = "v1.1 (Latest)"
   weight = 45
   identifier = "t100v11"
-  url = "/the100/1.1/overview/intro/"
-  parent = "the100"
+  url = "/t100/1.1/overview/intro/"
+  parent = "t100"
 
   [[main]]
     name = "v1.0 (Legacy)"
     weight = 40
-    identifier = "the100-v10"
-    url = "/the100/1.0/overview/intro/"
-    parent = "the100"
+    identifier = "t100v10"
+    url = "/t100/1.0/overview/intro/"
+    parent = "t100"
 
 # Re-enable when I'm ready for OpenRCF1
 #[[main]]

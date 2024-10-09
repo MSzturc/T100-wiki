@@ -20,12 +20,12 @@ images:
 
 The top frame holds the toolhead, A/B (aka X/Y) motors, extruder, and extruder motor. Getting this part right is critical for the rest of the printer. It's also fun because you will finally get a sense of how the printer will look.
 
-Visit the <a href="/the100/1.1/printing-guide/top-frame/">print & purchase guide for the top frame</a> and for <a href="/the100/1.1/printing-guide/gantry/">the gantry</a> to see what parts you will need to complete this part of the build. 
+Visit the <a href="/t100/1.1/printing-guide/top-frame/">print & purchase guide for the top frame</a> and for <a href="/t100/1.1/printing-guide/gantry/">the gantry</a> to see what parts you will need to complete this part of the build. 
 
 Then you should watch <a href="https://www.youtube.com/watch?v=g_kgOLjIEg0" target="_blank">Matt's video</a> for building the top frame. This guide will simply function as a supplement to that video. 
 
 ## Notes on the video
-  - Matt doesn't really cover what screws he uses in the top frame (they're mostly m3x12 btw). All necessary screws are noted in the <a href="/the100/1.1/printing-guide/top-frame/">print & purchase guide for the top frame</a>.
+  - Matt doesn't really cover what screws he uses in the top frame (they're mostly m3x12 btw). All necessary screws are noted in the <a href="/t100/1.1/printing-guide/top-frame/">print & purchase guide for the top frame</a>.
   - While giving a brief overview of where heat inserts go (<a href="https://youtu.be/g_kgOLjIEg0?t=114" target="_blank">1:54</a>), he skips over talking about a few spots. They're shown in the beginning montage but I wanted to mention the ones he doesn't point out:
     - Heat inserts on the back and side where the back frame pieces will attach
     - Heat inserts for the extruder mount

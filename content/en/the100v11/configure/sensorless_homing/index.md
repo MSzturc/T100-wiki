@@ -25,7 +25,7 @@ Sensorless homing is a Klipper feature where it moves the carriage and bed until
 
 
 ## Requirements 
-  * You have completed the <a href="/the100/1.1/configure/first-gantry-movement/">gantry movement</a> and <a href="/the100/1.1/configure/first-bed-movement/">bed movement</a> guides, and your `printer.cfg` matches how we ended the bed movement guide.
+  * You have completed the <a href="/t100/1.1/configure/first-gantry-movement/">gantry movement</a> and <a href="/t100/1.1/configure/first-bed-movement/">bed movement</a> guides, and your `printer.cfg` matches how we ended the bed movement guide.
   * Know how to do an emergency stop in fluidd/mainsail so you can immediately stop the homing process if your stepper driver doesn't properly report a stall. This will help prevent damage to the printer and motion systems. 
       * <img src="images/fluidd_emergency_stop.png">
 
@@ -84,8 +84,8 @@ G28 X0
 ```
 
   * If it moved a tiny amount and then stopped (most likely), continue with the next step
-  * If it moved to the end of the frame and stopped, jump to <a href="/the100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>
-  * If it moved to the end of the frame and didn't immediately stop, increase the `VALUE` until it stops when it collides, then jump to <a href="/the100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>.
+  * If it moved to the end of the frame and stopped, jump to <a href="/t100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>
+  * If it moved to the end of the frame and didn't immediately stop, increase the `VALUE` until it stops when it collides, then jump to <a href="/t100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>.
 
 ```
 SET_TMC_FIELD FIELD=SGTHRS STEPPER=stepper_x VALUE=170
@@ -94,9 +94,9 @@ G28 X0
 
   * If it moved a tiny amount then stopped (most likely), you should continue repeating the steps above but lower the `VALUE` in increments of 10. So the next steps would be 160, 150, 140, etc. 
     * You may need to disable the motors and physically move the printhead back to the center of the print bed if it is getting too close to the frame due to the number of tests it is taking to find the right value for your motors. 
-    * Eventually you will find a low enough number where the printhead moves all the way to the frame and then stops once it bumps it. You should now jump to <a href="/the100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>.
-  * If it moved to the end of the frame and stopped, jump to <a href="/the100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>
-  * If it moved to the end of the frame and didn't immediately stop, increase the `VALUE` until it stops when it collides, then jump to <a href="/the100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>.
+    * Eventually you will find a low enough number where the printhead moves all the way to the frame and then stops once it bumps it. You should now jump to <a href="/t100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>.
+  * If it moved to the end of the frame and stopped, jump to <a href="/t100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>
+  * If it moved to the end of the frame and didn't immediately stop, increase the `VALUE` until it stops when it collides, then jump to <a href="/t100/1.1/configure/sensorless-homing-prep/#fine-tuning-x-axis">fine tuning</a>.
 
 ### Fine tuning X-axis
 You found the value where stallguard stops homing once the carriage hit the frame... excellent! But we still need to do a little more tuning. There is a range of values where it will stop and we don't currently know if you're at the top or bottom of that range. Our goal here is to get somewhere in the middle so small changes to your printer won't break homing. 

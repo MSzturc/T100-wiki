@@ -15,8 +15,8 @@ weight: 50
 toc: true
 doc: t100v10
 aliases:
-  - /the100/overview/intro/
-  - /the100/overview/
+  - /t100/overview/intro/
+  - /t100/overview/
 ---
 # THE 100 3d Printer
 
@@ -27,7 +27,7 @@ If you found this page then you probably already know what THE 100 project is, b
 
 Matt himself has created a <a href="https://www.youtube.com/watch?v=fC4BB4BhjOo&list=PLM01o_dfwbDcKYB-9yV0vLs5k0CrHUv0W&pp=iAQB">great assembly guide on YouTube</a> but those videos don't go in to detail about how to actually print the parts. I struggled with knowing how many of each part to print and which parts I actually needed. As I've spent more time in THE 100 discord, I've seen these same questions come up often. 
 
-Matt is working hard on v1.1 which has a number of changed parts (see <a href="/the100/overview/before-you-print/#warning">this warning</a> before you start printing), and he already said v2 is going to be a pretty massive design change, so the confusion around what to print for different versions is only going to make it harder for people to know where to start.
+Matt is working hard on v1.1 which has a number of changed parts (see <a href="/t100/overview/before-you-print/#warning">this warning</a> before you start printing), and he already said v2 is going to be a pretty massive design change, so the confusion around what to print for different versions is only going to make it harder for people to know where to start.
 
 That inspired me to create this guide. It helps me remember it for future prints, and it will hopefully be helpful for others as well.
 
@@ -43,4 +43,4 @@ This guide is meant to answer questions about THE 100 like:
   * Mistakes to avoid
   * And a lot more
 
-Now you may be wondering: <a href="/the100/1.0/overview/why-print-the100/">why should I even print one of these</a>?
+Now you may be wondering: <a href="/t100/1.0/overview/why-print-the100/">why should I even print one of these</a>?

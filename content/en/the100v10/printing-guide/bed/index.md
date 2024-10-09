@@ -14,12 +14,12 @@ weight: 350
 toc: true
 doc: t100v10
 aliases:
-  - /the100/printing-guide/bed/
+  - /t100/printing-guide/bed/
 ---
 # Bed
 Everything you need to print for THE 100 bed.
 
-As mentioned in <a href="/the100/overview/before-you-print/#print-settings">print settings</a>, these parts should be printed with 30% infill. 
+As mentioned in <a href="/t100/overview/before-you-print/#print-settings">print settings</a>, these parts should be printed with 30% infill. 
 
 ## v1.0
 
@@ -35,19 +35,19 @@ As mentioned in <a href="/the100/overview/before-you-print/#print-settings">prin
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bed/Center.stl">Center</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bed/Center.stl">Center</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564416_e3f2e0b0-8d64-4022-89af-17159b7de61b/bed-center.stl">Bed-Center</a></td>
       <td>1</td>
       <td><a href="#center">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bed/Left.stl">Left</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bed/Left.stl">Left</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564426_db9391c8-82f4-497a-851d-506891bc1b62/bed-right.stl">Bed-Right</a></td>
       <td>1</td>
       <td><a href="#left">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bed/Right.stl">Right</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bed/Right.stl">Right</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564413_f90868f1-1f46-42cb-a85a-6df9317f094a/bed-left.stl">Bed-Left</a></td>
       <td>1</td>
       <td><a href="#right">More info</a></td>

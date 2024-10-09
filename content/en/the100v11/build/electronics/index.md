@@ -20,7 +20,7 @@ images:
 
 The toolhead is the "business end" of the printer and is also the first part we're going to build. 
 
-Visit the <a href="/the100/1.1/printing-guide/toolhead/">print & purchase guide for the toolhead</a> to see what parts you will need to complete this part of the build. 
+Visit the <a href="/t100/1.1/printing-guide/toolhead/">print & purchase guide for the toolhead</a> to see what parts you will need to complete this part of the build. 
 
 Then you should watch <a href="https://www.youtube.com/watch?v=fC4BB4BhjOo" target="_blank">Matt's video</a> for building the toolhead. This guide will simply function as a supplement to that video. 
 

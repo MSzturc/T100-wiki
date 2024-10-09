@@ -21,7 +21,7 @@ images:
 For whatever reason I'm always excited to test out the fans and heaters during a new build, but you can't (easily) test them until you have a lot of other pieces and parts working. Now that we have all the necessary items setup, let's get them going!
 
 ## Requirements 
-  * You have completed the <a href="/the100/1.1/configure/extruder-setup/">extruder setup</a> guide, and your `printer.cfg` matches how we ended that one.
+  * You have completed the <a href="/t100/1.1/configure/extruder-setup/">extruder setup</a> guide, and your `printer.cfg` matches how we ended that one.
   * Your fans, thermistors, and heaters are connected to the SKR Pico and your power supply as needed
 
 ## Wiring

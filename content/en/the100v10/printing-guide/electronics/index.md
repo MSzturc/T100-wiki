@@ -14,7 +14,7 @@ weight: 360
 toc: true
 doc: t100v10
 aliases:
-  - /the100/printing-guide/electronics/
+  - /t100/printing-guide/electronics/
 ---
 # Electronics
 Everything you need to print for THE 100 electronics.
@@ -34,25 +34,25 @@ Everything you need to print for THE 100 electronics.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Electronics/CableHolder.stl">CableHolder</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Electronics/CableHolder.stl">CableHolder</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564398_d9bbaf82-8061-486f-846e-187a0d8403ab/cable-holder-top.stl">Cable Holder Top</a></td>
       <td>1</td>
       <td><a href="#cable-holder">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Electronics/CableHolderTop.stl">CableHolderTop</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Electronics/CableHolderTop.stl">CableHolderTop</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564395_ae9a1a7a-de9d-4b92-918b-68323fd70c03/cable-holder-frame.stl">Cable Holder Frame</a></td>
       <td>1</td>
       <td><a href="#cable-holder-top">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Electronics/MainboardHolder.stl">MainboardHolder</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Electronics/MainboardHolder.stl">MainboardHolder</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564387_aba3401a-202d-4cc9-8165-8f92b87a6177/mainboard-holder.stl">Mainboard Holder</a></td>
       <td>1</td>
       <td><a href="#mainboard-holder">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Electronics/Spacer15mm.stl">Spacer15mm</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Electronics/Spacer15mm.stl">Spacer15mm</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564394_7a06f0f7-ccd6-45a9-b77b-5a91f037212f/spacer-15mm.stl">Spacer 15mm</a></td>
       <td>4</td>
       <td><a href="#spacer-15mm">More info</a></td>

@@ -17,7 +17,7 @@ images:
   - images/tfd_bed_preview.png
 ---
 # Bed
-As mentioned in <a href="/the100/1.1/overview/before-you-print/#print-settings">print settings</a>, these parts should be printed with 30% infill. 
+As mentioned in <a href="/t100/1.1/overview/before-you-print/#print-settings">print settings</a>, these parts should be printed with 30% infill. 
 
 <div class="row bd">
   <div class="col">
@@ -67,19 +67,19 @@ As mentioned in <a href="/the100/1.1/overview/before-you-print/#print-settings">
   <tbody>
     <tr>
       <td>Center</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Bed/Center.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581588_09eb6d6c-8caa-4684-978e-19dcb8971a19/center.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Bed/Center.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581588_09eb6d6c-8caa-4684-978e-19dcb8971a19/center.stl">printables</a></td>
       <td>1</td>
       <td><a href="#center">More info</a></td>
     </tr>
     <tr>
       <td>Left</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Bed/Left.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581590_128c4603-3ed4-423d-9a37-d211a697060c/left.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Bed/Left.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581590_128c4603-3ed4-423d-9a37-d211a697060c/left.stl">printables</a></td>
       <td>1</td>
       <td><a href="#left">More info</a></td>
     </tr>
     <tr>
       <td>Right</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Bed/Right.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581589_b78f9bc8-574d-4154-bc54-77deda70e43d/right.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Bed/Right.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581589_b78f9bc8-574d-4154-bc54-77deda70e43d/right.stl">printables</a></td>
       <td>1</td>
       <td><a href="#right">More info</a></td>
     </tr>

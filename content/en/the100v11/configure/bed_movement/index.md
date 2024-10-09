@@ -21,10 +21,10 @@ images:
 It turns out it's a requirement to move in the Z-axis if you want to print in 3d rather than 2d. Let's get that going now!
 
 ## Requirements 
-  * You completed the steps in <a href="/the100/1.1/configure/first-gantry-movement/">the gantry movement guide</a>, and your `printer.cfg` is in the state it was left in at the end of that guide.
+  * You completed the steps in <a href="/t100/1.1/configure/first-gantry-movement/">the gantry movement guide</a>, and your `printer.cfg` is in the state it was left in at the end of that guide.
   * You have both of your Z-axis motors plugged in to your SKR Pico
   * You have access to fluidd/mainsail and it's connecting to your printer with no errors
-  * You have an <a href="/the100/1.1/configure/preparing-for-movement/">understanding of CoreXY printers, motor wiring, and you have modified your cables as needed</a>
+  * You have an <a href="/t100/1.1/configure/preparing-for-movement/">understanding of CoreXY printers, motor wiring, and you have modified your cables as needed</a>
   * Just like I recommend not having the belt attached when you're first testing the gantry motors, I would recommend starting this process with either your Z motors not actually installed in the frame, or with the lead screw nuts disconnected from the bed so the rods can spin without actually moving the bed.
   * Lead screws should be attached to the Z motors with the couplers. It's important this is done so you can verify they aren't wobbling while testing motion. 
   

@@ -15,7 +15,7 @@ weight: 70
 toc: true
 doc: t100v10
 aliases:
-  - /the100/overview/before-you-print/
+  - /t100/overview/before-you-print/
 ---
 # Before you start printing
 
@@ -66,4 +66,4 @@ This project wouldn't exist without Matt so I wanted to provide a list of links 
   * <a href="https://hackaday.io/project/190348-the-100-the-fastest-3d-printer">hackaday</a>
 
 
-Ok, <a href="/the100/1.0/printing-guide/toolhead/">let's get printing</a>!
+Ok, <a href="/t100/1.0/printing-guide/toolhead/">let's get printing</a>!

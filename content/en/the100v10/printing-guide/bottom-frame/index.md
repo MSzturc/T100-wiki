@@ -14,7 +14,7 @@ weight: 340
 toc: true
 doc: t100v10
 aliases:
-  - /the100/printing-guide/bottom-frame/
+  - /t100/printing-guide/bottom-frame/
 ---
 # Bottom Frame
 ## v1.0
@@ -32,43 +32,43 @@ These parts are required regardless of which hotend you're using.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Bottom%201.stl">Bottom 1</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Bottom%201.stl">Bottom 1</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564418_21f0869b-b5ae-4c2a-80cf-f1be2cf639b5/bottom-frame-back-left.stl">Bottom Frame Back Left</a></td>
       <td>1</td>
       <td><a href="#back-left">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Bottom%202.stl">Bottom 2</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Bottom%202.stl">Bottom 2</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564421_adf6ab3d-a6b8-42ec-974a-da9ccf200aae/bottom-frame-back-right.stl">Bottom Frame Back Right</a></td>
       <td>1</td>
       <td><a href="#back-right">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Bottom%203.stl">Bottom 3</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Bottom%203.stl">Bottom 3</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564428_418fdab3-c5c8-4d97-ac88-ef0fffa61c0d/bottom-frame-front-left.stl">Bottom Frame Front Left</a></td>
       <td>1</td>
       <td><a href="#front-left">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Bottom%204.stl">Bottom 4</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Bottom%204.stl">Bottom 4</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564409_2ee0713c-c46e-4681-8bb1-50b12ee2195b/bottom-frame-front-right.stl">Bottom Frame Front Right</a></td>
       <td>1</td>
       <td><a href="#front-right">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Connection%20Back.stl">Connection Back</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Connection%20Back.stl">Connection Back</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564420_a1449d3b-6783-44b8-82ad-53782753ae51/bottom-frame-connector-back.stl">Bottom Frame Connector Back</a></td>
       <td>1</td>
       <td><a href="#connector-back">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Connection%20Front%201.stl">Connection Front 1</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Connection%20Front%201.stl">Connection Front 1</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564415_84477a66-25ea-4094-b21b-741d9e834e63/bottom-frame-connector-front-1.stl">Bottom Frame Connector Front 1</a></td>
       <td>1</td>
       <td><a href="#connector-front-1">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Connection%20Front%202.stl">Connection Front 2</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Connection%20Front%202.stl">Connection Front 2</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564419_f0b60644-d1cf-48e0-866e-c45ae660c17f/bottom-frame-connector-front-2.stl">Bottom Frame Connector Front 2</a></td>
       <td>1</td>
       <td><a href="#connector-front-2">More info</a></td>
@@ -98,7 +98,7 @@ These parts are required regardless of which hotend you're using.
       <td><a href="#connector-right-2">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Bottom%20Frame/Foot.stl">Foot</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Bottom%20Frame/Foot.stl">Foot</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564423_bfd498fa-dd66-4345-96a6-25d1be53fe75/bottom-foot-back-left.stl">Bottom Foot Back Left</a></td>
       <td>4</td>
       <td><a href="#foot">More info</a></td>

@@ -67,19 +67,19 @@ Everything you need to print to hold THE 100's electronics. You can't print the 
   <tbody>
     <tr>
       <td>Cable Holder Frame</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Electronics/Cable%20Holder%20Frame.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581556_19129328-4335-465a-b671-f0bd2a63f9c6/cable-holder-frame.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Electronics/Cable%20Holder%20Frame.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581556_19129328-4335-465a-b671-f0bd2a63f9c6/cable-holder-frame.stl">printables</a></td>
       <td>1</td>
       <td><a href="#cable-holder-frame">More info</a></td>
     </tr>
     <tr>
       <td>Cable Holder Top</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Electronics/Cable%20Holder%20Top.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581557_c0b56564-be73-4338-9c44-279b15b9c600/cable-holder-top.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Electronics/Cable%20Holder%20Top.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581557_c0b56564-be73-4338-9c44-279b15b9c600/cable-holder-top.stl">printables</a></td>
       <td>1</td>
       <td><a href="#cable-holder-top">More info</a></td>
     </tr>
     <tr>
       <td>Mainboard Holder</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Electronics/Mainboard%20Holder.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581558_7a9a4bd0-a8d6-4a6c-910a-24303c0e0896/mainboard-holder.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Electronics/Mainboard%20Holder.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581558_7a9a4bd0-a8d6-4a6c-910a-24303c0e0896/mainboard-holder.stl">printables</a></td>
       <td>1</td>
       <td><a href="#mainboard-holder">More info</a></td>
     </tr>

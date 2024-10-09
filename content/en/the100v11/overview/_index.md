@@ -11,5 +11,5 @@ weight: 100
 menu:
   t100v10:
     identifier: "overview-v11"
-url: /the100/1.1/overview/
+url: /t100/1.1/overview/
 ---

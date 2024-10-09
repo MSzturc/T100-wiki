@@ -26,7 +26,7 @@ The extruder works just like any of the other motors except it has a lot more se
   * Your hot end's thermistor is connected to the SKR Pico
 
 ## Wiring
-This guide doesn't cover wiring in detail, but it is important that you have your extruder motor and hot end thermistor plugged in before you continue or you'll just get errors. Every motor is different so how mine is wired won't necessarily be how yours should be wired. <a href="/the100/1.1/configure/preparing-for-movement/">But you knew that already... right</a>?
+This guide doesn't cover wiring in detail, but it is important that you have your extruder motor and hot end thermistor plugged in before you continue or you'll just get errors. Every motor is different so how mine is wired won't necessarily be how yours should be wired. <a href="/t100/1.1/configure/preparing-for-movement/">But you knew that already... right</a>?
 
 
 ## Add to printer.cfg

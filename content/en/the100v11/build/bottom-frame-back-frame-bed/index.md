@@ -21,9 +21,9 @@ images:
 After completing this step you will have the entire frame of the printer complete! There is still plenty of work to go with the electronics, but this is nearly the end of the physical build. The back frame is one of the primary changes between v1.0 and v1.1. 
 
 Visit the following print & purchase guides to see what you will need to complete this part of the build: 
-  - <a href="/the100/1.1/printing-guide/bottom-frame/">bottom frame</a>
-  - <a href="/the100/1.1/printing-guide/back-frame/">back frame</a>
-  - <a href="/the100/1.1/printing-guide/bed/">bed</a>
+  - <a href="/t100/1.1/printing-guide/bottom-frame/">bottom frame</a>
+  - <a href="/t100/1.1/printing-guide/back-frame/">back frame</a>
+  - <a href="/t100/1.1/printing-guide/bed/">bed</a>
 
 Then you should watch <a href="https://www.youtube.com/watch?v=EwaCh9CHoCc" target="_blank">Matt's video</a> for building the bottom frame (which includes the back frame and bed). This guide will simply function as a supplement to that video. 
 

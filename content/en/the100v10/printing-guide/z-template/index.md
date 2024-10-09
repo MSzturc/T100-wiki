@@ -14,7 +14,7 @@ weight: 999
 toc: true
 doc: t100v10
 aliases:
-  - /the100/printing-guide/z-template/
+  - /t100/printing-guide/z-template/
 ---
 # Template
 Everything you need to print for THE 100 top frame.

@@ -14,7 +14,7 @@ weight: 300
 toc: true
 doc: t100v10
 aliases:
-  - /the100/printing-guide/toolhead/
+  - /t100/printing-guide/toolhead/
 ---
 # THE 100 Toolhead
 Everything you need to print for THE 100 toolhead.
@@ -36,19 +36,19 @@ These parts are required regardless of which hotend you're using.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Hotend/Connection%20Fanhead.stl">Connection Fanhead</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Hotend/Connection%20Fanhead.stl">Connection Fanhead</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564396_25aa452a-3a7d-4a5a-b203-1c0284850b7d/adapter-plate.stl">Adapter Plate</a></td>
       <td>1</td>
       <td><a href="#adapter-plate">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Hotend/Rod-Cradle.stl">Rod Cradle</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Hotend/Rod-Cradle.stl">Rod Cradle</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564389_4fe028b8-ebe9-4c5a-9efd-981826b06630/rod-carriage.stl">Rod Carriage</a></td>
       <td>1</td>
       <td><a href="#rod-carriage">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Hotend/TD6%20Fanhead.stl">TD6 Fanhead</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Hotend/TD6%20Fanhead.stl">TD6 Fanhead</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564386_5ab1e0bd-4a8d-454e-baed-8f8e13749b73/fanhead.stl">Fanhead</a></td>
       <td>1</td>
       <td><a href="#fanhead">More info</a></td>
@@ -69,13 +69,13 @@ Print these if you're using the CHC Pro as your hotend.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Hotend/CHC%20Pro/TD6%20PRO%20Tool-Mount.stl">TD6 PRO Tool-Mount</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Hotend/CHC%20Pro/TD6%20PRO%20Tool-Mount.stl">TD6 PRO Tool-Mount</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564397_6b45327a-8ad4-4698-b4a5-531f8660638e/chc-pro-mount.stl">CHC Pro Mount</a></td>
       <td>1</td>
       <td><a href="#chc-pro-mount">More info</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Hotend/CHC%20Pro/TD6%20Pro%20Front.stl">TD6 Pro Front</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Hotend/CHC%20Pro/TD6%20Pro%20Front.stl">TD6 Pro Front</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564388_47d61a0b-f98a-4692-88e8-fd640e794ecf/chc-pro-mount-front.stl">CHC PRO Mount Front</a></td>
       <td>1</td>
       <td><a href="#chc-pro-mount-front">More info</a></td>
@@ -96,13 +96,13 @@ Print these if you're using the CHC (not pro) as your hotend.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Hotend/CHC/TD6%20Tool-Mount.stl">TD6 Tool-Mount</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Hotend/CHC/TD6%20Tool-Mount.stl">TD6 Tool-Mount</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564401_f91ab511-ed0d-4e4b-ba4d-471b86d19df3/chc-mount.stl">CHC Mount</a></td>
       <td>1</td>
       <td><a href="#chc-mount">More info</a></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Hotend/CHC/TD6%20Front.stl">TD6 Front</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Hotend/CHC/TD6%20Front.stl">TD6 Front</a></td>
       <td><a href="https://files.printables.com/media/prints/430339/stls/3564401_f91ab511-ed0d-4e4b-ba4d-471b86d19df3/chc-mount.stl">CHC Mount Front</a></td>
       <td>1</td>
       <td><a href="#chc-mount-front">More info</a></td>

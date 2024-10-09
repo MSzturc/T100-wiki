@@ -7,5 +7,5 @@ lastmod: 2023-06-21T00:41:39+01:00
 draft: false
 images: []
 type: docs
-url: /the100/1.1/
+url: /t100/1.1/
 ---

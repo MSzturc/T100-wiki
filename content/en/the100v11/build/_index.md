@@ -11,5 +11,5 @@ weight: 300
 menu:
   t100v11:
     identifier: "build-v11"
-url: /the100/1.1/build/
+url: /t100/1.1/build/
 ---

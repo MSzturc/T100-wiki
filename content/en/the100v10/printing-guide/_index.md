@@ -8,7 +8,7 @@ draft: false
 images: []
 type: docs
 weight: 200
-url: /the100/1.0/printing-guide/
+url: /t100/1.0/printing-guide/
 aliases:
-  - /the100/printing-guide/
+  - /t100/printing-guide/
 ---

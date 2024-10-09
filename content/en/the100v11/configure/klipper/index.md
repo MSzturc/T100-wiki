@@ -22,9 +22,9 @@ The Banana Pi runs klipper which (to simplify things) is your 3d printer's firmw
 
 ## Requirements 
   * Your Banana Pi (or similar SBC) should have Armbian 21.08.1 with kernel 5.10.60 installed
-      * If you followed the steps in <a href="/the100/1.1/configure/armbian-install/">my previous armbian guide</a> then you're all set
+      * If you followed the steps in <a href="/t100/1.1/configure/armbian-install/">my previous armbian guide</a> then you're all set
 
-The last step in <a href="/the100/1.1/configure/armbian-install/">my armbian guide</a> had you shutdown the BPi. That's because we need to move the power cable from the OTG USB port (the one closer to the middle) to the power-only USB port (the one closest to the side). You can still plug the cable in to your computer for power, but if you have a quality USB wall plug, I would recommend using that instead. 
+The last step in <a href="/t100/1.1/configure/armbian-install/">my armbian guide</a> had you shutdown the BPi. That's because we need to move the power cable from the OTG USB port (the one closer to the middle) to the power-only USB port (the one closest to the side). You can still plug the cable in to your computer for power, but if you have a quality USB wall plug, I would recommend using that instead. 
 
 Plug power in and wait until the red light is flashing to proceed.
 

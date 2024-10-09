@@ -37,4 +37,4 @@ This guide is meant to answer questions about THE 100 like:
   * How to I configure it?
   * And a lot more
 
-Now you may be wondering: <a href="/the100/1.1/overview/why-print-the100/">why should I even print one of these</a>?
+Now you may be wondering: <a href="/t100/1.1/overview/why-print-the100/">why should I even print one of these</a>?

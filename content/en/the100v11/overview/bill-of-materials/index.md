@@ -125,4 +125,4 @@ M5-sized fasteners are primarily used for the belt-bearings to ride on.
 </div>
 <br><br>
 
-##### Ordered everything you need?! <a href="/the100/1.1/printing-guide/toolhead/">Let's get printing</a>!
+##### Ordered everything you need?! <a href="/t100/1.1/printing-guide/toolhead/">Let's get printing</a>!

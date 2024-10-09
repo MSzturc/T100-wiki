@@ -66,25 +66,25 @@ images:
   <tbody>
     <tr>
       <td>Left Gantry</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Gantry/Left%20Gantry.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581549_00354996-cefb-40e9-bc7f-1838937cf501/left-gantry.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Gantry/Left%20Gantry.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581549_00354996-cefb-40e9-bc7f-1838937cf501/left-gantry.stl">printables</a></td>
       <td>1</td>
       <td><a href="#left-gantry">More info</a></td>
     </tr>
     <tr>
       <td>Left Gantry Bottom</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Gantry/Left%20Gantry%20Bottom.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581552_39902278-386f-4236-a312-620a327ffd3a/left-gantry-bottom.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Gantry/Left%20Gantry%20Bottom.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581552_39902278-386f-4236-a312-620a327ffd3a/left-gantry-bottom.stl">printables</a></td>
       <td>1</td>
       <td><a href="#left-gantry-bottom">More info</a></td>
     </tr>
     <tr>
       <td>Right Gantry</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Gantry/Right%20Gantry.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581551_c2dd1e18-28a2-41bf-b6e6-85b05d4153d8/right-gantry.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Gantry/Right%20Gantry.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581551_c2dd1e18-28a2-41bf-b6e6-85b05d4153d8/right-gantry.stl">printables</a></td>
       <td>1</td>
       <td><a href="#right-gantry">More info</a></td>
     </tr>
     <tr>
       <td>Right Gantry Bottom</td>
-      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/the100/blob/main/STL/Gantry/Right%20Gantry%20Bottom.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581550_449599ad-afa7-4b63-ab2b-89604bf1e875/right-gantry-bottom.stl">printables</a></td>
+      <td class="no-wrap"><a target="_blank" href="https://github.com/MSzturc/t100/blob/main/STL/Gantry/Right%20Gantry%20Bottom.stl">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581550_449599ad-afa7-4b63-ab2b-89604bf1e875/right-gantry-bottom.stl">printables</a></td>
       <td>1</td>
       <td><a href="#right-gantry-bottom">More info</a></td>
     </tr>

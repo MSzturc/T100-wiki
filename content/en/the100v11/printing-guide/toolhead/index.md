@@ -71,13 +71,13 @@ These parts are required regardless of which hotend you're using.
   <tbody>
     <tr>
       <td>Connector Plate</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/Connector%20Plate.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581540_86c6c691-8518-4868-aa2c-6b6cbf8d862b/connector-plate.stl">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/Connector%20Plate.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581540_86c6c691-8518-4868-aa2c-6b6cbf8d862b/connector-plate.stl">printables</a></td>
       <td>1</td>
       <td><a href="#connector-plate">More info</a></td>
     </tr>
     <tr>
       <td>Rod Cradle</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/Rod-Cradle.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581539_80e2a55d-72a0-40fe-b1b5-6b485eb09bdf/rod-cradle.stl">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/Rod-Cradle.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581539_80e2a55d-72a0-40fe-b1b5-6b485eb09bdf/rod-cradle.stl">printables</a></td>
       <td>1</td>
       <td><a href="#rod-cradle">More info</a></td>
     </tr>
@@ -98,19 +98,19 @@ Print these if you're using the CHC Pro as your hotend.
   <tbody>
     <tr>
       <td>CHC Pro Mount</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/CHC%20Pro/CHC%20Pro%20Mount.stl" target="_blank">github</a> / <a href="">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/CHC%20Pro/CHC%20Pro%20Mount.stl" target="_blank">github</a> / <a href="">printables</a></td>
       <td>1</td>
       <td><a href="#chc-pro-mount">More info</a></td>
     </tr>
     <tr>
       <td>CHC Pro Clamp</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/CHC%20Pro/CHC%20Pro%20Clamp.stl" target="_blank">github</a> / <a href="">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/CHC%20Pro/CHC%20Pro%20Clamp.stl" target="_blank">github</a> / <a href="">printables</a></td>
       <td>1</td>
       <td><a href="#chc-pro-clamp">More info</a></td>
     </tr>
     <tr>
       <td>CHC Pro Fanduct</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/CHC%20Pro/CHC%20Fanduct.stl" target="_blank">github</a> / <a href="">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/CHC%20Pro/CHC%20Fanduct.stl" target="_blank">github</a> / <a href="">printables</a></td>
       <td>1</td>
       <td><a href="#chc-pro-fanduct">More info</a></td>
     </tr>
@@ -131,19 +131,19 @@ Print these if you're using the Rapido UHF as your hotend.
   <tbody>
     <tr>
       <td>Rapido UHF Hotend Mount</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/Rapido%20UHF/Hotend%20Mount.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581545_ed41faf4-5ea1-4cf9-acd4-890f96e3aae0/rapido-uhf-hotend-mount.stl">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/Rapido%20UHF/Hotend%20Mount.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581545_ed41faf4-5ea1-4cf9-acd4-890f96e3aae0/rapido-uhf-hotend-mount.stl">printables</a></td>
       <td>1</td>
       <td><a href="#rapido-uhf-hotend-mount">More info</a></td>
     </tr>
         <tr>
       <td>Rapido UHF Hotend Clamp</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/Rapido%20UHF/Hotend%20Clamp.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581546_52f53683-e976-423d-bee0-2b05dd87a355/rapido-uhf-hotend-clamp.stl">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/Rapido%20UHF/Hotend%20Clamp.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581546_52f53683-e976-423d-bee0-2b05dd87a355/rapido-uhf-hotend-clamp.stl">printables</a></td>
       <td>1</td>
       <td><a href="#rapido-uhf-hotend-clamp">More info</a></td>
     </tr>
     <tr>
       <td>Rapido UHF Fan Duct</td>
-      <td><a href="https://github.com/MSzturc/the100/blob/main/STL/Toolhead/Rapido%20UHF/Fan%20Duct.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581544_51661fc1-2705-4c38-aed4-1e143fcf5ddd/rapido-uhf-fan-duct.stl">printables</a></td>
+      <td><a href="https://github.com/MSzturc/t100/blob/main/STL/Toolhead/Rapido%20UHF/Fan%20Duct.stl" target="_blank">github</a> / <a href="https://files.printables.com/media/prints/572689/stls/4581544_51661fc1-2705-4c38-aed4-1e143fcf5ddd/rapido-uhf-fan-duct.stl">printables</a></td>
       <td>1</td>
       <td><a href="#rapido-uhf-fan-duct">More info</a></td>
     </tr>
