@@ -8,11 +8,11 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v11:
+  t100v11:
     parent: "build-v11"
 weight: 520
 toc: true
-doc: the100v11
+doc: t100v11
 images: 
   - images/tfd_bottom_frame_preview.png
 ---

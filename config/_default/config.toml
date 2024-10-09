@@ -63,8 +63,8 @@ rel  = "sitemap"
 
 [permalinks]
   blog = "/posts/:title/"
-  the100v10 = "/t100/1.0/:sections[1:]/:title/"
-  the100v11 = "/t100/1.1/:sections[1:]/:title/"
+  t100v10 = "/t100/1.0/:sections[1:]/:title/"
+  t100v11 = "/t100/1.1/:sections[1:]/:title/"
 
 [minify.tdewolff.html]
   keepWhitespace = false

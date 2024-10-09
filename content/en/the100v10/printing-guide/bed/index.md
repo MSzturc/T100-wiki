@@ -8,11 +8,11 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v10:
+  t100v10:
     parent: "printing-guide-the100"
 weight: 350
 toc: true
-doc: the100v10
+doc: t100v10
 aliases:
   - /the100/printing-guide/bed/
 ---

@@ -8,12 +8,12 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v10:
+  t100v10:
     parent: "overview-v10"
     identifier: "before-you-print-v10"
 weight: 70
 toc: true
-doc: the100v10
+doc: t100v10
 aliases:
   - /the100/overview/before-you-print/
 ---

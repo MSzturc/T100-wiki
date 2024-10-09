@@ -8,12 +8,12 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v10:
+  t100v10:
     parent: "overview-v10"
     identifier: "why-print-v10"
 weight: 60
 toc: true
-doc: the100v10
+doc: t100v10
 aliases:
   - /the100/overview/why-print-the100/
 ---
