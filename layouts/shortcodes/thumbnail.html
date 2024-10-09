@@ -1,0 +1,6 @@
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) -}}
+<div class="card" style="width: 18rem;"><a href="{{ $image.Permalink }}"><img class="card-img-top" src="{{ $image.Permalink }}"></a>
+    {{ with .Get "caption" }}
+        <div class="card-body"><p class="card-text">{{.}}</p></div>
+    {{ end }}
+</div>
