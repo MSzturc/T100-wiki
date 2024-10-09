@@ -8,11 +8,11 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v11:
+  t100v10:
     parent: "build-v11"
 weight: 501
 toc: true
-doc: the100v11
+doc: t100v10
 static_images: true
 images: 
   - tfd_the100_preview.png

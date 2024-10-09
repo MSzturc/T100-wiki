@@ -1,9 +1,14 @@
-{{ if and (eq .Params.doc "the100v10") (eq .Site.Params.options.the100Versioning true) -}} 
+{{ if and (eq .Params.doc "t100v10") (eq .Site.Params.options.the100Versioning true) -}}
 <hr class="text-black-50 my-4 d-lg-none">
 <div class="dropdown">
-  <button class="btn btn-doks-light dropdown-toggle border border-danger" id="doks-versions" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static" aria-label="Toggle version menu">
+  <button class="btn btn-doks-light dropdown-toggle border border-danger" id="doks-versions" data-bs-toggle="dropdown"
+    aria-expanded="false" data-bs-display="static" aria-label="Toggle version menu">
     <span class="d-none d-lg-inline">Version 1.0</span>
-    <span class="dropdown-caret"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span>
+    <span class="dropdown-caret"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        class="feather feather-chevron-down">
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg></span>
   </button>
   <ul class="dropdown-menu dropdown-menu-lg-end me-lg-2 shadow rounded border-0" aria-labelledby="doks-versions">
     <li><a class="dropdown-item current" aria-current="true" href="/the100/1.0/overview/intro/">v1.0 (Legacy)</a></li>
@@ -13,26 +18,31 @@
 </div>
 {{ end -}}
 
-{{ if and (eq .Params.doc "the100v11") (eq .Site.Params.options.the100Versioning true) -}} 
+{{ if and (eq .Params.doc "t100v10") (eq .Site.Params.options.the100Versioning true) -}}
 <hr class="text-black-50 my-4 d-lg-none">
 <div class="dropdown">
-  <button class="btn btn-doks-light dropdown-toggle border border-danger" id="doks-versions" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static" aria-label="Toggle version menu">
+  <button class="btn btn-doks-light dropdown-toggle border border-danger" id="doks-versions" data-bs-toggle="dropdown"
+    aria-expanded="false" data-bs-display="static" aria-label="Toggle version menu">
     <span class="d-none d-lg-inline">Version 1.1</span>
-    <span class="dropdown-caret"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></span>
+    <span class="dropdown-caret"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        class="feather feather-chevron-down">
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg></span>
   </button>
   <ul class="dropdown-menu dropdown-menu-lg-end me-lg-2 shadow rounded border-0" aria-labelledby="doks-versions">
     <li><a class="dropdown-item" href="/the100/1.0/overview/intro/">v1.0 (Legacy)</a></li>
-    <li><a class="dropdown-item current" aria-current="true" href="/the100/1.1/overview/intro/">v1.1 (Latest)</a></li>    
+    <li><a class="dropdown-item current" aria-current="true" href="/the100/1.1/overview/intro/">v1.1 (Latest)</a></li>
   </ul>
 </div>
 {{ end -}}
 
 {{ if and .Site.Params.menu.section.auto .Site.Params.menu.section.collapsibleSidebar -}}
-  {{ partial "sidebar/auto-collapsible-menu.html" . -}}
+{{ partial "sidebar/auto-collapsible-menu.html" . -}}
 {{ else if and .Site.Params.menu.section.auto (not .Site.Params.menu.section.collapsibleSidebar) -}}
-  {{ partial "sidebar/auto-default-menu.html" . -}}
+{{ partial "sidebar/auto-default-menu.html" . -}}
 {{ else if and (not .Site.Params.menu.section.auto) .Site.Params.menu.section.collapsibleSidebar -}}
-  {{ partial "sidebar/manual-collapsible-menu.html" . -}}
+{{ partial "sidebar/manual-collapsible-menu.html" . -}}
 {{ else if and (not .Site.Params.menu.section.auto) (not .Site.Params.menu.section.collapsibleSidebar) -}}
-  {{ partial "sidebar/manual-default-menu.html" . -}}
+{{ partial "sidebar/manual-default-menu.html" . -}}
 {{ end -}}

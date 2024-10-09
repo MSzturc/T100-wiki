@@ -8,11 +8,11 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v11:
+  t100v10:
     parent: "printing-guide-the100"
 weight: 400
 toc: true
-doc: the100v11
+doc: t100v10
 images: 
   - images/tfd_back_frame_preview.png
 ---

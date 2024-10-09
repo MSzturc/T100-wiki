@@ -9,7 +9,7 @@ images: []
 type: docs
 weight: 400
 menu:
-  the100v11:
+  t100v10:
     identifier: "configure-v11"
 url: /the100/1.1/configure/
 ---

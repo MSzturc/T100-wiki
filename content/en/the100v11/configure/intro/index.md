@@ -8,12 +8,12 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v11:
+  t100v10:
     parent: "configure-v11"
     identifier: "intro-configure-v11"
 weight: 601
 toc: true
-doc: the100v11
+doc: t100v10
 static_images: true
 images: 
   - tfd_the100_preview.png

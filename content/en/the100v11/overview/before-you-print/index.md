@@ -9,12 +9,12 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v10:
+  t100v10:
     parent: "overview-v11"
     identifier: "before-you-print-v11"
 weight: 70
 toc: true
-doc: the100v11
+doc: t100v10
 static_images: true
 images: 
   - tfd_the100_preview.png

@@ -8,12 +8,12 @@ draft: false
 images: []
 type: docs
 menu:
-  the100v10:
+  t100v10:
     parent: "overview-v11"
     identifier: "bom-v11"
 weight: 80
 toc: true
-doc: the100v11
+doc: t100v10
 images: 
   - images/tfd_bom_preview.png
 ---
