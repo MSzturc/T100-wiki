@@ -1,14 +1,14 @@
 
-/the100/overview/intro/ /T100-wiki/the100/1.0/overview/intro/
-/the100/overview/ /T100-wiki/the100/1.0/overview/intro/
-/the100/overview/why-print-the100/ /T100-wiki/the100/1.0/overview/why-print-the-100/
-/the100/overview/before-you-print/ /T100-wiki/the100/1.0/overview/before-you-print/
+/the100/overview/intro/ /T100-wiki/t100/1.0/overview/intro/
+/the100/overview/ /T100-wiki/t100/1.0/overview/intro/
+/the100/overview/why-print-the100/ /T100-wiki/t100/1.0/overview/why-print-the-100/
+/the100/overview/before-you-print/ /T100-wiki/t100/1.0/overview/before-you-print/
 /the100/printing-guide/ /T100-wiki/the100/1.0/printing-guide/
-/the100/printing-guide/toolhead/ /T100-wiki/the100/1.0/printing-guide/toolhead/
-/the100/printing-guide/top-frame/ /T100-wiki/the100/1.0/printing-guide/top-frame/
-/the100/printing-guide/bottom-frame/ /T100-wiki/the100/1.0/printing-guide/bottom-frame/
-/the100/printing-guide/bed/ /T100-wiki/the100/1.0/printing-guide/bed/
-/the100/printing-guide/electronics/ /T100-wiki/the100/1.0/printing-guide/electronics/
+/the100/printing-guide/toolhead/ /T100-wiki/t100/1.0/printing-guide/toolhead/
+/the100/printing-guide/top-frame/ /T100-wiki/t100/1.0/printing-guide/top-frame/
+/the100/printing-guide/bottom-frame/ /T100-wiki/t100/1.0/printing-guide/bottom-frame/
+/the100/printing-guide/bed/ /T100-wiki/t100/1.0/printing-guide/bed/
+/the100/printing-guide/electronics/ /T100-wiki/t100/1.0/printing-guide/electronics/
 
 # /docs/1.0/prologue/   /docs/1.0/prologue/introduction/
 # /docs/1.0/help/       /docs/1.0/help/how-to-update/
