@@ -1,4 +1,4 @@
-baseurl = "https://theforgetful.dev/"
+baseurl = "https://mszturc.github.io/T100-wiki/"
 canonifyURLs = false
 disableAliases = false
 disableHugoGeneratorInject = true
