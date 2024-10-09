@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://theforgetful.dev/sitemap.xml
+Sitemap: https://mszturc.github.io/T100-wiki/sitemap.xml
