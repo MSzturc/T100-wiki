@@ -1,22 +1,29 @@
 [[main]]
-  name = "THE 100"
+  name = "T100"
   weight = 30
-  identifier = "t100"
-  url = "/t100/"
-
-  [[main]]
-  name = "v1.1 (Latest)"
-  weight = 45
   identifier = "t100v11"
   url = "/t100/1.1/overview/intro/"
-  parent = "t100"
 
-  [[main]]
-    name = "v1.0 (Legacy)"
-    weight = 40
-    identifier = "t100-v10"
-    url = "/t100/1.0/overview/intro/"
-    parent = "t100"
+[[main]]
+  name = "T250"
+  weight = 35
+  identifier = "t250v10"
+  url = "/t250/1.0/overview/intro/"
+
+
+#  [[main]]
+#  name = "v1.1 (Latest)"
+#  weight = 45
+#  identifier = "t100v11"
+#  url = "/t100/1.1/overview/intro/"
+#  parent = "t100"
+
+#  [[main]]
+#    name = "v1.0 (Legacy)"
+#    weight = 40
+#    identifier = "t100-v10"
+#    url = "/t100/1.0/overview/intro/"
+#    parent = "t100"
 
 #[[main]]
 #  name = "Posts"

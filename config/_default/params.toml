@@ -88,7 +88,7 @@ editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["t100"]
+  sectionNav = ["t100", "t250"]
 
 [options]
   lazySizes = true
