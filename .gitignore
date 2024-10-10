@@ -4,9 +4,6 @@ resources
 .netlify
 .hugo_build.lock
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,hugo,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,hugo,node
-
 ### Hugo ###
 # Generated files by hugo
 /public/
@@ -219,5 +216,3 @@ dist
 
 # Ignore code-workspaces
 *.code-workspace
-
-# End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,hugo,node

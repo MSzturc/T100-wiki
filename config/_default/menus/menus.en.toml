@@ -1,4 +1,3 @@
-# Enable when I'm ready for THE 100
 [[main]]
   name = "THE 100"
   weight = 30
@@ -19,15 +18,15 @@
     url = "/t100/1.0/overview/intro/"
     parent = "t100"
 
-[[main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 20
+#[[main]]
+#  name = "Posts"
+#  url = "/posts/"
+#  weight = 20
 
-[[main]]
-  name = "About"
-  url = "/pages/about/"
-  weight = 50
+#[[main]]
+#  name = "About"
+#  url = "/pages/about/"
+#  weight = 50
 
 [[social]]
   name = "GitHub"

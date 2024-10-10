@@ -1,4 +1,4 @@
-baseurl = "https://mszturc.github.io/T100-wiki/"
+#baseurl = "https://mszturc.github.io/T100-wiki/"
 canonifyURLs = false
 disableAliases = false
 disableHugoGeneratorInject = true
@@ -62,7 +62,6 @@ rel  = "sitemap"
   tag = "tags"
 
 [permalinks]
-  blog = "/posts/:title/"
   t100v10 = "/t100/1.0/:sections[1:]/:title/"
   t100v11 = "/t100/1.1/:sections[1:]/:title/"
 
