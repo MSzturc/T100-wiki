@@ -14,7 +14,7 @@
   [[main]]
     name = "v1.0 (Legacy)"
     weight = 40
-    identifier = "t100v10"
+    identifier = "t100-v10"
     url = "/t100/1.0/overview/intro/"
     parent = "t100"
 

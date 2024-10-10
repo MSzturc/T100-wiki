@@ -8,11 +8,11 @@ draft: false
 images: []
 type: docs
 menu:
-  t100v10:
+  t100v11:
     parent: "configure-v11"
 weight: 609
 toc: true
-doc: t100v10
+doc: t100v11
 images: 
   - images/tfd_toolhead_preview.png
 ---

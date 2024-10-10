@@ -15,7 +15,7 @@ weight: 60
 toc: true
 doc: t100v10
 aliases:
-  - /t100/overview/why-print-the100/
+  - /t100/overview/why-print-the-100/
 ---
 # Why print THE 100?
 For me, 3d printing is purely a hobby. 50% of the fun for me is tweaking it. I could go out right now and buy a Bambu and get some incredible prints, but the lack of playing and tweaking isn't what I'm looking for. THE 100 is kind of the opposite of that: you have to build it yourself and you are solely responsible for making it work. And the reward when you do that successfully is you end up with the world's fastest 3d printer based on a printed frame. 

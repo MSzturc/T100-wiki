@@ -43,4 +43,4 @@ This guide is meant to answer questions about THE 100 like:
   * Mistakes to avoid
   * And a lot more
 
-Now you may be wondering: <a href="/t100/1.0/overview/why-print-the100/">why should I even print one of these</a>?
+Now you may be wondering: <a href="/t100/1.0/overview/why-print-the-100/">why should I even print one of these</a>?
